@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/eslam-ahmed-9829b2287">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/eslam-ahmed-9829b2287">LinkedIn</a> •
   <a href="mailto:eslama.mohamed3012@gmail.com">Email</a>
 </p>
 
@@ -42,6 +42,7 @@ I am especially interested in data analytics, business intelligence, dashboard d
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Core Competencies
 
