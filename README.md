@@ -33,7 +33,9 @@ I am especially interested in data analytics, business intelligence, dashboard d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Visualization & Business Intelligence
 
@@ -49,29 +51,6 @@ I am especially interested in data analytics, business intelligence, dashboard d
 - Dashboard design and KPI reporting
 - Data visualization and storytelling
 - Statistical analysis and trend identification
-
----
-
-## Featured Projects
-
-### World Cup 2026 Dashboard
-
-An interactive Power BI dashboard for exploring World Cup 2026 data, including team information, tournament insights, and visual reporting.
-
-> Replace this section with links and short descriptions of your best projects.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Eslam's GitHub statistics" />
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Eslam's most-used languages" />
-  </a>
-</p>
 
 ---
 
