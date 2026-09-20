@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="www.linkedin.com/in/eslam-ahmed-9829b2287">LinkedIn</a> •
+  <a href="mailto:eslama.mohamed3012@gmail.com">Email</a>
 </p>
 
 ---
